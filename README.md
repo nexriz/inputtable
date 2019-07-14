@@ -2,7 +2,7 @@
 
 ```
 Expressions -> atm very simple
-
+Example:
 =(5 - 1) *2
 =( 2 ^ 2 ^ 2 * 3 + ( 2 * 2 + ( 5 * 10 ) / 2 ) ) ^ 2
 =5^(2^(2^2)),
@@ -15,6 +15,13 @@ Expressions -> atm very simple
 =10 + 25 - 30
 =((3 * (25 / 5) - 15) + 2)^2^2
 =(5 - 1) * 2
+
+Regex
+Hello
+^hi\s[0-9]*
+\s|(?=[\-\+\/\^*\(\)])|(?<=[^-0-9.]+)
+
+Its very buggy tho
 ```
 
 
