@@ -100,7 +100,7 @@ export const Cell = React.forwardRef((props, ref) => {
   //     }
   //   }
   // });
-  console.log(evaluateExpression(editor, state[state.length - 1]));
+  // console.log(evaluateExpression(editor, state[state.length - 1]));
   return (
     <CellWrapper>
       <Input
@@ -113,7 +113,7 @@ export const Cell = React.forwardRef((props, ref) => {
         isEditor={isEditor}
         selected={isEditor}
         validated={
-          !isEditor && editor.length > 0
+          !isEditor && editor.length > 1
             ? evaluateExpression(editor, state[state.length - 1])
             : true
         }
