@@ -31,5 +31,17 @@ Its very buggy tho
 ![Alt Text](https://media.giphy.com/media/cn9ZxwfaKcGezoaqnc/giphy.gif)
 
 
+````
+  Functionality so far
+  
+  You can add rules to columns
+    - calc expressions
+    - Regex str
+    
+  You can multiselect columns and rows -> and fill them all with typed text.
+  
+  ctrl-z on selected columns and rows lets you go back in history, retreiving old values etc
+  
 
+````
 
