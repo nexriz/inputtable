@@ -1,4 +1,21 @@
-###Inputtable - ICA basic delux. plez gif monah 
+### Inputtable - ICA basic delux. plez gif monah 
+
+```
+Expressions -> atm very simple
+
+=(5 - 1) *2
+=( 2 ^ 2 ^ 2 * 3 + ( 2 * 2 + ( 5 * 10 ) / 2 ) ) ^ 2
+=5^(2^(2^2)),
+=5^2^2^2
+=+5- -5
+=+5 0- -5
+=+5+ + -5
+=2.5 + 2.5
+=2.5^2
+=10 + 25 - 30
+=((3 * (25 / 5) - 15) + 2)^2^2
+=(5 - 1) * 2
+```
 
 
 ![Alt Text](https://media.giphy.com/media/gj057zIpAB0yqyfGZG/giphy.gif)
