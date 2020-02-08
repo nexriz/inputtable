@@ -1,6 +1,6 @@
-### Inputtable
+## Inputtable
 
-## Just a funny spaghetti code project
+#### Just a funny spaghetti code project
 
 > Me trying out the Shunting yard algorithm
 
