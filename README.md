@@ -1,4 +1,4 @@
-### Inputtable - ICA basic delux. plez gif monah 
+### Inputtable - Just a funny spaghetti code project meant for testing the shunting yard algorithm.
 
 ```
 Expressions -> atm very simple
