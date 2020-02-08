@@ -1,4 +1,10 @@
-### Inputtable - Just a funny spaghetti code project meant for testing the shunting yard algorithm.
+### Inputtable
+
+## Just a funny spaghetti code project
+
+> Me trying out the Shunting yard algorithm
+
+[Shunting Yard Algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
 
 ```
 Expressions -> atm very simple
